@@ -19,6 +19,20 @@ class TestOne(BaseClass):
 ###################################################
 ##################################
 #####################
+
+    def test_demo(self):
+         #this is practice for git puul and push
+
+        # **********************
+         # AAAAAAAAAAAAAAAAA
+         # VVVVVVVVVV
+         # IIIIIIIII
+
+
+
+
+
+
         log= self.getLogger()
 
         homePage = HomePage(self.driver)
