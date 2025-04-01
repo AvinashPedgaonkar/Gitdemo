@@ -1,0 +1,132 @@
+2024-10-19 09:08:25,294 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:10:12,024 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:12:10,818 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:12:10,848 :INFO : test_e2e : the available cards are
+2024-10-19 09:12:12,619 :INFO : test_e2e : entering country name
+2024-10-19 09:12:17,967 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 09:16:57,676 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:16:59,222 :INFO : test_e2e : the available cards are
+2024-10-19 09:18:14,846 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:18:16,276 :INFO : test_e2e : the available cards are
+2024-10-19 09:18:16,362 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a38e38af83f49d0c7903cb569974a0c2", element="f.67DB15597B176F4F14DEAB08AB76DD53.d.409E2BF0D71030352EF4220453C8CAEA.e.58")>
+2024-10-19 09:18:16,380 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a38e38af83f49d0c7903cb569974a0c2", element="f.67DB15597B176F4F14DEAB08AB76DD53.d.409E2BF0D71030352EF4220453C8CAEA.e.60")>
+2024-10-19 09:18:16,410 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a38e38af83f49d0c7903cb569974a0c2", element="f.67DB15597B176F4F14DEAB08AB76DD53.d.409E2BF0D71030352EF4220453C8CAEA.e.62")>
+2024-10-19 09:18:16,430 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a38e38af83f49d0c7903cb569974a0c2", element="f.67DB15597B176F4F14DEAB08AB76DD53.d.409E2BF0D71030352EF4220453C8CAEA.e.64")>
+2024-10-19 09:18:16,895 :INFO : test_e2e : entering country name
+2024-10-19 09:18:22,228 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 09:22:05,411 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:22:09,135 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="1f97af433b8ef3e321823d83f12f3871", element="f.B9AF217FBD92744EA93F3C03D4324E9C.d.8AA9F11FBB24034EE77CC7F6F14273BD.e.48")>, <selenium.webdriver.remote.webelement.WebElement (session="1f97af433b8ef3e321823d83f12f3871", element="f.B9AF217FBD92744EA93F3C03D4324E9C.d.8AA9F11FBB24034EE77CC7F6F14273BD.e.50")>, <selenium.webdriver.remote.webelement.WebElement (session="1f97af433b8ef3e321823d83f12f3871", element="f.B9AF217FBD92744EA93F3C03D4324E9C.d.8AA9F11FBB24034EE77CC7F6F14273BD.e.52")>, <selenium.webdriver.remote.webelement.WebElement (session="1f97af433b8ef3e321823d83f12f3871", element="f.B9AF217FBD92744EA93F3C03D4324E9C.d.8AA9F11FBB24034EE77CC7F6F14273BD.e.54")>]
+2024-10-19 09:22:14,493 :INFO : test_e2e : entering country name
+2024-10-19 09:22:20,272 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 09:27:27,275 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:29:07,775 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:29:08,998 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="c281793c5f296e06f8898439b25331de", element="f.0DC14D77843248ED05D0C27BFA0744D5.d.4F21D970FE74B5CDC6EB007F255730BF.e.54")>, <selenium.webdriver.remote.webelement.WebElement (session="c281793c5f296e06f8898439b25331de", element="f.0DC14D77843248ED05D0C27BFA0744D5.d.4F21D970FE74B5CDC6EB007F255730BF.e.56")>, <selenium.webdriver.remote.webelement.WebElement (session="c281793c5f296e06f8898439b25331de", element="f.0DC14D77843248ED05D0C27BFA0744D5.d.4F21D970FE74B5CDC6EB007F255730BF.e.58")>, <selenium.webdriver.remote.webelement.WebElement (session="c281793c5f296e06f8898439b25331de", element="f.0DC14D77843248ED05D0C27BFA0744D5.d.4F21D970FE74B5CDC6EB007F255730BF.e.60")>]
+2024-10-19 09:29:09,051 :INFO : test_e2e : iphone X
+2024-10-19 09:29:09,080 :INFO : test_e2e : Samsung Note 8
+2024-10-19 09:29:09,113 :INFO : test_e2e : Nokia Edge
+2024-10-19 09:29:09,152 :INFO : test_e2e : Blackberry
+2024-10-19 09:29:09,742 :INFO : test_e2e : entering country name
+2024-10-19 09:29:15,142 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 09:33:51,980 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:33:53,145 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="ff75c61c5964122ca053b5765ac4dc6e", element="f.0C6264EDF708BE68C7BC7B887A9377BF.d.65AA33269A3215A5003A7D90333F69EA.e.56")>, <selenium.webdriver.remote.webelement.WebElement (session="ff75c61c5964122ca053b5765ac4dc6e", element="f.0C6264EDF708BE68C7BC7B887A9377BF.d.65AA33269A3215A5003A7D90333F69EA.e.58")>, <selenium.webdriver.remote.webelement.WebElement (session="ff75c61c5964122ca053b5765ac4dc6e", element="f.0C6264EDF708BE68C7BC7B887A9377BF.d.65AA33269A3215A5003A7D90333F69EA.e.60")>, <selenium.webdriver.remote.webelement.WebElement (session="ff75c61c5964122ca053b5765ac4dc6e", element="f.0C6264EDF708BE68C7BC7B887A9377BF.d.65AA33269A3215A5003A7D90333F69EA.e.62")>]
+2024-10-19 09:33:53,323 :INFO : test_e2e : iphone X
+2024-10-19 09:33:53,359 :INFO : test_e2e : Samsung Note 8
+2024-10-19 09:33:53,389 :INFO : test_e2e : Nokia Edge
+2024-10-19 09:33:53,420 :INFO : test_e2e : Blackberry
+2024-10-19 09:33:53,929 :INFO : test_e2e : entering country name
+2024-10-19 09:33:59,351 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 09:39:40,678 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:39:41,708 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="88874efa2454ee85940d5c2f7f33cea8", element="f.1C1CD119C37698B5DC7D975157BB6B18.d.C0141EEFD43367F2B6CC44F5244BB417.e.57")>, <selenium.webdriver.remote.webelement.WebElement (session="88874efa2454ee85940d5c2f7f33cea8", element="f.1C1CD119C37698B5DC7D975157BB6B18.d.C0141EEFD43367F2B6CC44F5244BB417.e.59")>, <selenium.webdriver.remote.webelement.WebElement (session="88874efa2454ee85940d5c2f7f33cea8", element="f.1C1CD119C37698B5DC7D975157BB6B18.d.C0141EEFD43367F2B6CC44F5244BB417.e.61")>, <selenium.webdriver.remote.webelement.WebElement (session="88874efa2454ee85940d5c2f7f33cea8", element="f.1C1CD119C37698B5DC7D975157BB6B18.d.C0141EEFD43367F2B6CC44F5244BB417.e.63")>]
+2024-10-19 09:39:41,759 :INFO : test_e2e : iphone X
+2024-10-19 09:39:41,790 :INFO : test_e2e : Samsung Note 8
+2024-10-19 09:39:41,821 :INFO : test_e2e : Nokia Edge
+2024-10-19 09:39:41,858 :INFO : test_e2e : Blackberry
+2024-10-19 09:39:42,350 :INFO : test_e2e : entering country name
+2024-10-19 09:39:47,697 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 09:40:06,992 :INFO : test_formSubmission : this is homepage test
+2024-10-19 09:40:07,157 :INFO : test_formSubmission : name loaded isAvinash
+2024-10-19 09:40:07,733 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 09:40:08,373 :INFO : test_formSubmission : this is homepage test
+2024-10-19 09:40:08,373 :INFO : test_formSubmission : this is homepage test
+2024-10-19 09:40:08,512 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-10-19 09:40:08,512 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-10-19 09:40:09,041 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 09:40:09,041 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 09:40:17,836 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 09:40:19,355 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="469ae69c217c3ad529dd842a42277cd8", element="f.C4F19C74456BFA33841279D69DE521A8.d.85F092D2F960F5E07EF9F795C2CB04E0.e.54")>, <selenium.webdriver.remote.webelement.WebElement (session="469ae69c217c3ad529dd842a42277cd8", element="f.C4F19C74456BFA33841279D69DE521A8.d.85F092D2F960F5E07EF9F795C2CB04E0.e.56")>, <selenium.webdriver.remote.webelement.WebElement (session="469ae69c217c3ad529dd842a42277cd8", element="f.C4F19C74456BFA33841279D69DE521A8.d.85F092D2F960F5E07EF9F795C2CB04E0.e.58")>, <selenium.webdriver.remote.webelement.WebElement (session="469ae69c217c3ad529dd842a42277cd8", element="f.C4F19C74456BFA33841279D69DE521A8.d.85F092D2F960F5E07EF9F795C2CB04E0.e.60")>]
+2024-10-19 09:40:19,447 :INFO : test_e2e : iphone X
+2024-10-19 09:40:19,477 :INFO : test_e2e : Samsung Note 8
+2024-10-19 09:40:19,509 :INFO : test_e2e : Nokia Edge
+2024-10-19 09:40:19,543 :INFO : test_e2e : Blackberry
+2024-10-19 09:40:20,118 :INFO : test_e2e : entering country name
+2024-10-19 09:40:25,444 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 21:18:00,646 :INFO : test_formSubmission : this is homepage test
+2024-10-19 21:18:01,098 :INFO : test_formSubmission : name loaded isAvinash
+2024-10-19 21:18:02,339 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 21:18:03,988 :INFO : test_formSubmission : this is homepage test
+2024-10-19 21:18:03,988 :INFO : test_formSubmission : this is homepage test
+2024-10-19 21:18:04,119 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-10-19 21:18:04,119 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-10-19 21:18:05,115 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 21:18:05,115 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 21:18:17,830 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 21:18:19,807 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="97f5b0dab469873a37e2d94afe0b8c8d", element="f.C0BAEEB5652DB30CAEFEA032B3759C6F.d.C55848721F8EA34F506AA1F6383D6320.e.57")>, <selenium.webdriver.remote.webelement.WebElement (session="97f5b0dab469873a37e2d94afe0b8c8d", element="f.C0BAEEB5652DB30CAEFEA032B3759C6F.d.C55848721F8EA34F506AA1F6383D6320.e.59")>, <selenium.webdriver.remote.webelement.WebElement (session="97f5b0dab469873a37e2d94afe0b8c8d", element="f.C0BAEEB5652DB30CAEFEA032B3759C6F.d.C55848721F8EA34F506AA1F6383D6320.e.61")>, <selenium.webdriver.remote.webelement.WebElement (session="97f5b0dab469873a37e2d94afe0b8c8d", element="f.C0BAEEB5652DB30CAEFEA032B3759C6F.d.C55848721F8EA34F506AA1F6383D6320.e.63")>]
+2024-10-19 21:18:19,873 :INFO : test_e2e : iphone X
+2024-10-19 21:18:19,906 :INFO : test_e2e : Samsung Note 8
+2024-10-19 21:18:19,940 :INFO : test_e2e : Nokia Edge
+2024-10-19 21:18:19,973 :INFO : test_e2e : Blackberry
+2024-10-19 21:18:20,479 :INFO : test_e2e : entering country name
+2024-10-19 21:18:25,843 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-19 21:42:43,551 :INFO : test_formSubmission : this is homepage test
+2024-10-19 21:42:43,953 :INFO : test_formSubmission : name loaded isAvinash
+2024-10-19 21:42:44,742 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 21:42:45,855 :INFO : test_formSubmission : this is homepage test
+2024-10-19 21:42:45,855 :INFO : test_formSubmission : this is homepage test
+2024-10-19 21:42:45,986 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-10-19 21:42:45,986 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-10-19 21:42:46,516 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 21:42:46,516 :INFO : test_formSubmission : data loaded proeprly
+2024-10-19 21:42:57,238 :INFO : test_e2e : now user is on checkoutpage
+2024-10-19 21:43:01,119 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="a66eb22d68f30c37622e7d6896c81546", element="f.043495CB906667EB6EFEB4894A22DDFB.d.4E2BB526B4C6D8D7A94C6328C69B2819.e.58")>, <selenium.webdriver.remote.webelement.WebElement (session="a66eb22d68f30c37622e7d6896c81546", element="f.043495CB906667EB6EFEB4894A22DDFB.d.4E2BB526B4C6D8D7A94C6328C69B2819.e.60")>, <selenium.webdriver.remote.webelement.WebElement (session="a66eb22d68f30c37622e7d6896c81546", element="f.043495CB906667EB6EFEB4894A22DDFB.d.4E2BB526B4C6D8D7A94C6328C69B2819.e.62")>, <selenium.webdriver.remote.webelement.WebElement (session="a66eb22d68f30c37622e7d6896c81546", element="f.043495CB906667EB6EFEB4894A22DDFB.d.4E2BB526B4C6D8D7A94C6328C69B2819.e.64")>]
+2024-10-19 21:43:01,208 :INFO : test_e2e : iphone X
+2024-10-19 21:43:01,240 :INFO : test_e2e : Samsung Note 8
+2024-10-19 21:43:01,272 :INFO : test_e2e : Nokia Edge
+2024-10-19 21:43:01,301 :INFO : test_e2e : Blackberry
+2024-10-19 21:43:01,788 :INFO : test_e2e : entering country name
+2024-10-19 21:43:07,169 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-21 21:12:16,080 :INFO : test_e2e : now user is on checkoutpage
+2024-11-21 21:12:18,681 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="79cd59fa61e6289ba5deb2a033d91d26", element="f.ED1BE524CC7EDCA52A22A366D4BA5AE3.d.CC26DA19951CD4BB9A9D58C6745FD9BB.e.60")>, <selenium.webdriver.remote.webelement.WebElement (session="79cd59fa61e6289ba5deb2a033d91d26", element="f.ED1BE524CC7EDCA52A22A366D4BA5AE3.d.CC26DA19951CD4BB9A9D58C6745FD9BB.e.62")>, <selenium.webdriver.remote.webelement.WebElement (session="79cd59fa61e6289ba5deb2a033d91d26", element="f.ED1BE524CC7EDCA52A22A366D4BA5AE3.d.CC26DA19951CD4BB9A9D58C6745FD9BB.e.64")>, <selenium.webdriver.remote.webelement.WebElement (session="79cd59fa61e6289ba5deb2a033d91d26", element="f.ED1BE524CC7EDCA52A22A366D4BA5AE3.d.CC26DA19951CD4BB9A9D58C6745FD9BB.e.66")>]
+2024-11-21 21:12:18,750 :INFO : test_e2e : iphone X
+2024-11-21 21:12:18,796 :INFO : test_e2e : Samsung Note 8
+2024-11-21 21:12:18,831 :INFO : test_e2e : Nokia Edge
+2024-11-21 21:12:18,879 :INFO : test_e2e : Blackberry
+2024-11-21 21:12:20,003 :INFO : test_e2e : entering country name
+2024-11-21 21:12:25,367 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-21 21:14:06,458 :INFO : test_formSubmission : this is homepage test
+2024-11-21 21:14:06,621 :INFO : test_formSubmission : name loaded isAvinash
+2024-11-21 21:14:07,042 :INFO : test_formSubmission : data loaded proeprly
+2024-11-21 21:14:07,914 :INFO : test_formSubmission : this is homepage test
+2024-11-21 21:14:07,914 :INFO : test_formSubmission : this is homepage test
+2024-11-21 21:14:08,040 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-11-21 21:14:08,040 :INFO : test_formSubmission : name loaded isVaishnavi
+2024-11-21 21:14:08,614 :INFO : test_formSubmission : data loaded proeprly
+2024-11-21 21:14:08,614 :INFO : test_formSubmission : data loaded proeprly
+2024-11-21 21:14:21,357 :INFO : test_e2e : now user is on checkoutpage
+2024-11-21 21:14:23,561 :INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="7eedac726fc4617d2fbc5204910509e6", element="f.90DFFD8091202F69E18EE2C7EEE80748.d.E150A8BEBCFB564C357DC9D3DE0B5564.e.54")>, <selenium.webdriver.remote.webelement.WebElement (session="7eedac726fc4617d2fbc5204910509e6", element="f.90DFFD8091202F69E18EE2C7EEE80748.d.E150A8BEBCFB564C357DC9D3DE0B5564.e.56")>, <selenium.webdriver.remote.webelement.WebElement (session="7eedac726fc4617d2fbc5204910509e6", element="f.90DFFD8091202F69E18EE2C7EEE80748.d.E150A8BEBCFB564C357DC9D3DE0B5564.e.58")>, <selenium.webdriver.remote.webelement.WebElement (session="7eedac726fc4617d2fbc5204910509e6", element="f.90DFFD8091202F69E18EE2C7EEE80748.d.E150A8BEBCFB564C357DC9D3DE0B5564.e.60")>]
+2024-11-21 21:14:23,638 :INFO : test_e2e : iphone X
+2024-11-21 21:14:23,665 :INFO : test_e2e : Samsung Note 8
+2024-11-21 21:14:23,688 :INFO : test_e2e : Nokia Edge
+2024-11-21 21:14:23,713 :INFO : test_e2e : Blackberry
+2024-11-21 21:14:24,352 :INFO : test_e2e : entering country name
+2024-11-21 21:14:29,738 :INFO : test_e2e : text received on pop up is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
